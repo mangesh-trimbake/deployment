@@ -1,0 +1,1 @@
+docker build -f dockerfile.pyuv -t flask-app . 

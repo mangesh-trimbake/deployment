@@ -1,0 +1,1 @@
+docker build -f dockerfile.pyuvng -t flask-app . 
